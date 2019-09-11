@@ -1,0 +1,27 @@
+{
+    "sound": {
+        "music_volume": 0.5,
+        "sound_volume": 0.5,
+        "music_enabled": true,
+        "sound_enabled": true
+    },
+    "screen": {
+        "fullscreen": false,
+        "resolution": 0
+    },
+    "title": "Mary's A.I Game Welcome",
+    "valid_resolutions": [
+        {
+            "width": 1024,
+            "height": 720
+        },
+        {
+            "width": 1400,
+            "height": 1050
+        },
+        {
+            "width": 1920,
+            "height": 1080
+        }
+    ]
+}

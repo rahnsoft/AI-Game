@@ -1,0 +1,23 @@
+{
+    "Alpha Squad": [
+        "teams.alpha_squad.alpha1",
+        "teams.alpha_squad.alpha2",
+        "teams.alpha_squad.alpha3",
+        "teams.alpha_squad.alpha4",
+        "teams.alpha_squad.alpha5"
+    ],
+   "The Mystic Marvels": [
+        "teams.mystic_marvels.allanon",
+        "teams.mystic_marvels.minerva",
+        "teams.mystic_marvels.gandalf",
+        "teams.mystic_marvels.merlin",
+        "teams.mystic_marvels.morrigan"
+    ],
+  "C Science nerds ": [
+        "teams.C_Science_nerds.Gladys",
+        "teams.C_Science_nerds.Justus",
+        "teams.C_Science_nerds.Mary",
+        "teams.C_Science_nerds.Nick",
+        "teams.C_Science_nerds.Tina"
+    ]
+}
